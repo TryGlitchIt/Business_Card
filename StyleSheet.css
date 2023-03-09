@@ -1,0 +1,51 @@
+*{
+    font-family: 'Times New Roman', 'Helvetica', 'Futura', 'sans-serif'; 
+    font-size: 18px;
+}
+
+body{
+    background-color: rgb(227, 244, 255);
+}
+
+img{
+    float: left;
+    position: relative;  
+    width: auto;
+    height: 360px;
+    border: 5px white solid;
+    margin: 0px 20px 20px 0px;
+}
+
+h1{
+    font-size: xx-large;
+    margin-top: 20px;
+}
+
+p.About{
+    Margin: 20px 0px 60px 0px;
+}
+
+table.tableLangs{
+    margin-top: 75px;
+    background-color: white;
+    border: 2px solid green;
+
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td{
+    border: 2px solid green;
+    width: 150px;
+    height: 50px;
+}
+
+th {
+    background-color: lightgoldenrodyellow;
+}
+
+th.thead {
+    font-size: 23px;
+}
+
+
